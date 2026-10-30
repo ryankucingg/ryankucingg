@@ -3,16 +3,19 @@
   <img src="assets/banner-light.svg" alt="Ryan N.R. — I build Catzoid, dev tools with nine lives." width="100%">
 </picture>
 
+<br>
+
 <p align="center">
-  <a href="https://catzoid.com" title="catzoid.com"><img src="assets/catzoid.png" height="30" alt="catzoid.com"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ryan.nr2211@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.net/@ryan.nr_" title="Threads"><img src="https://cdn.simpleicons.org/threads/9996FF" height="30" alt="Threads"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ryan.nr_" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
+  <a href="https://catzoid.com" title="catzoid.com"><img src="assets/link-catzoid.svg" width="56" alt="catzoid.com"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ryan.nr2211@gmail.com" title="Email"><img src="assets/link-gmail.svg" width="56" alt="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@ryan.nr_" title="Threads"><img src="assets/link-threads.svg" width="56" alt="Threads"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ryan.nr_" title="Instagram"><img src="assets/link-instagram.svg" width="56" alt="Instagram"></a>
 </p>
 
+<br>
 <br>
 
 ### 🐾 About me
@@ -21,6 +24,8 @@
 - I'm building **[Catzoid](https://catzoid.com)** — a family of free, open-source desktop tools for developers, each one a cat with its own job. I design them, write them (with Claude at my side), test them and ship them, including the website and its API.
 - Handcrafting admin tables is how developers age overnight — so I wrote **[MrCatz DataTable](https://github.com/ryankucingg/mrcatz-datatables)** for Laravel + Livewire.
 - I like tools that explain what went wrong in plain words, and apps that stay quiet when nothing is happening.
+
+<br>
 
 ### 🐱 The litter
 
@@ -51,11 +56,15 @@
 
 <p align="center"><sub>All of them free and open source, built for macOS first, Windows on the way — <a href="https://github.com/catzoidhub">github.com/catzoidhub</a></sub></p>
 
+<br>
+
 ### 🧶 What I play with
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,electron,laravel,php,go,astro,tailwind,postgres,mysql,redis,docker,git&perline=14" alt="TypeScript, Vue, Node.js, Electron, Laravel, PHP, Go, Astro, Tailwind, PostgreSQL, MySQL, Redis, Docker, Git">
 </p>
+
+<br>
 
 ### 📈 Paw prints
 
