@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="712" height="172" viewBox="0 0 712 172" role="img" aria-label="Streak">
+<title>Streak</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9996ff"/><stop offset="1" stop-color="#c190f6"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="711" height="171" rx="14" fill="#24242c" stroke="#34343f"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="24" y="38" font-size="16" font-weight="650" fill="url(#g)">Streak</text>
+<text x="120" y="98" font-size="34" font-weight="700" fill="#d3d3db" text-anchor="middle">106</text>
+<text x="120" y="124" font-size="13" font-weight="600" fill="#d3d3db" text-anchor="middle">Contributions</text>
+<text x="120" y="144" font-size="11.5" fill="#9697a2" text-anchor="middle">since Jan 1, 2022</text>
+<line x1="232" y1="66" x2="232" y2="148" stroke="#34343f"/>
+<text x="350" y="98" font-size="34" font-weight="700" fill="url(#g)" text-anchor="middle">1</text>
+<text x="350" y="124" font-size="13" font-weight="600" fill="#d3d3db" text-anchor="middle">Current streak</text>
+<text x="350" y="144" font-size="11.5" fill="#9697a2" text-anchor="middle">days in a row, to Oct 30, 2026</text>
+<line x1="468" y1="66" x2="468" y2="148" stroke="#34343f"/>
+<text x="580" y="98" font-size="34" font-weight="700" fill="#d3d3db" text-anchor="middle">3</text>
+<text x="580" y="124" font-size="13" font-weight="600" fill="#d3d3db" text-anchor="middle">Longest streak</text>
+<text x="580" y="144" font-size="11.5" fill="#9697a2" text-anchor="middle">Oct 26, 2026 – Oct 28, 2026</text>
+</g></svg>
