@@ -4,13 +4,13 @@
 </picture>
 
 <p align="center">
-  <a href="https://catzoid.com"><img src="assets/catzoid.png" height="20" align="top" alt=""> &nbsp;catzoid.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:ryan.nr2211@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" align="top" alt=""> &nbsp;ryan.nr2211@gmail.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.threads.net/@ryan.nr_"><img src="https://cdn.simpleicons.org/threads/9996FF" height="20" align="top" alt=""> &nbsp;@ryan.nr_</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://instagram.com/ryan.nr_"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" align="top" alt=""> &nbsp;@ryan.nr_</a>
+  <a href="https://catzoid.com" title="catzoid.com"><img src="assets/catzoid.png" height="30" alt="catzoid.com"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ryan.nr2211@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@ryan.nr_" title="Threads"><img src="https://cdn.simpleicons.org/threads/9996FF" height="30" alt="Threads"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ryan.nr_" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
 </p>
 
 <br>
