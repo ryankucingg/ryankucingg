@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>All of them free and open source, built for macOS first, Windows on the way — <a href="https://github.com/catzoidhub">github.com/catzoidhub</a></sub></p>
+<p align="center"><sub>All of them free and open source, for macOS and Windows (DevCatz first) — <a href="https://github.com/catzoidhub">github.com/catzoidhub</a></sub></p>
 
 <br>
 
