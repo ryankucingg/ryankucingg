@@ -48,7 +48,7 @@
       <sub>The cat that carries the containers: a light Linux VM with every container on its own name. Still a kitten.</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/catzoidhub/MCatzP"><img src="assets/catzoid.png" width="72" alt=""><br><b>MCatzP</b></a><br>
+      <a href="https://github.com/catzoidhub/MCatzP"><img src="assets/mcatzp.png" width="72" alt=""><br><b>MCatzP</b></a><br>
       <sub>One MCP door for your AI into the whole litter. One connection, every cat. Coming with DoCatz.</sub>
     </td>
   </tr>
